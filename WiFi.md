@@ -11,3 +11,11 @@
 * Wireless Router is nonexistent.
 
 * Internet service is interrupted.
+
+## How to check WiFi card status
+
+```
+lspci -nn
+```
+
+This will list all PCI devices seen by the [[Linux]] kernel. Read the output to find which device, if any, is your wireless card.
