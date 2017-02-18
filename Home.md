@@ -1,0 +1,1 @@
+This is the preliminary start page for the Free Geek Tech Support Wiki
