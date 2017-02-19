@@ -20,6 +20,7 @@ lspci -nn
 
 This will list all PCI devices seen by the [[Linux]] kernel. Read the output to find which device, if any, is your wireless card.
 
+[[include:broadcomm-4300]]
 ### Broadcomm 4300 Series (BCM43XX)
 
 The b43 cards are a quite common laptop (and less common desktop) WiFi card without 100% kernel support in the 3.13 [[Linux Kernel|Linux]] found in [[Linux Mint]] 17.1.
