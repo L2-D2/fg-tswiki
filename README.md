@@ -1,2 +1,2 @@
-# fgts-wiki
-Wiki for Free Geek Technical Support
+# fg-tswiki
+Free Geek Technical Support Wiki
