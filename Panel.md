@@ -7,5 +7,5 @@ By default, the Panel contains:
 * Open Windows
 * Status Tray Icons
 * Time info
-[[_]]
+
 [[include:panel-edit-mode]]
