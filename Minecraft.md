@@ -2,11 +2,13 @@ Minecraft is a fantastic, extensively moddable, voxel stylized world simulator w
 
 ## Running Minecraft from Official Binary
 
-The Java Archive binary is run via the Java 
+The Java Archive binary is run via the Java Runtime Environment. To obtain the JRE on a Ubuntu based distribution, you can use the following commands:
 
-`java -jar /path/to/minecraft.jar`
+```
+$ sudo apt update
+$ sudo apt install default-jre default-jdk
+```
 
+To run Minecraft after installing the JRE and JDK: `java -jar /path/to/minecraft.jar`. 
 
-
-
-Minecraft ultimately only cares that you log into the authentication server with a valid account, and so the offical `.jar` file will work
+The Minecraft launcher is also packaged in some distributions and can be installed using the provided package manager. In Linux Mint (and probably many other Debian based distros), the Minecraft installer can be downloaded from the [[Linux Mint Community page|https://community.linuxmint.com/software/view/minecraft-installer]].
