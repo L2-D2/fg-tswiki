@@ -8,4 +8,4 @@ By default, the Panel contains:
 * Status Tray Icons
 * Time info
 
-[[include:panel-edit-mode]]
+[[include:include/panel-edit-mode]]
