@@ -6,3 +6,16 @@ For these examples to work, the appropriate user must be in the `sudo` group and
 
 ### Example of sudo
 
+In a [[terminal]] a user can run `id` to list out the userid and groupid info for the current user using the [[shell]].
+
+For an example user `tux` on an example `freekbox`:
+
+```
+tux@freekbox $ id
+uid=1000(tux) gid=1000(tux) groups=1000(tux),91(video),92(audio),617(adbusers),1001(sudo),1002(steam)
+tux@freekbox $ sudo id
+[sudo] password for tux:
+uid=0(root) gid=0(root) groups=0(root),1(bin),2(daemon),3(sys),4(adm),6(disk),10(wheel),19(log)
+```
+
+
