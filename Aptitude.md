@@ -2,7 +2,7 @@ Aptitude is the default package manager found in many Debian and Ubuntu based Li
 
 ## Usage
 
-Aptitude will usually require elevated [[privileges]] to install or upgrade software. If you are not the `root` user, be sure to always use [[`sudo`|sudo]] when asking Aptitude to manipulate packages.
+Aptitude will usually require elevated [[privileges]] to install or upgrade software. If you are not the `root` user, be sure to always use `sudo` when asking Aptitude to manipulate packages.
 
 Aptitude runs on the command line via the `apt` command. When calling `apt` there are many internal commands and options to use. Check the [[manual page]] for a complete list. Some common internal commands are:
 
