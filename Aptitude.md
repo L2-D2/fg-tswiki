@@ -7,8 +7,8 @@ Aptitude will usually require elevated [[privileges]] to install or upgrade soft
 Aptitude runs on the command line via the `apt` command. When calling `apt` there are many internal commands and options to use. Check the [[manual page]] for a complete list. Some common internal commands are:
 
 * Install
-..* `# apt install <package>`
-..* Install a package and its dependencies.
+    * `# apt install <package>`
+    * Install a package and its dependencies.
 * Reinstall
 ..* `# apt reinstall <package>`
 ..* Reinstall a package (can sometimes fix installation errors).
