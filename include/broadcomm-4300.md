@@ -9,4 +9,6 @@ $ sudo apt update
 $ sudo apt install firmware-b43-installer
 ```
 
-Without a wired connection you will need to obtain the `firmware-b43-install.deb` file that probably exists somewhere on the [[Internet]]. Be sure to use discretion when [[downloading]] installer files from the Internet.
+Without a wired connection you will need to obtain the `firmware-b43-install.deb` file that probably exists somewhere on the [[Internet]]. Then you will need to transfer the installer to the  desired computer (possibly using a flash drive). The package can be installed using the `GDebi Package Installer` or via the command line: `$ sudo dpkg -i /path/to/installer.deb`
+
+Be sure to use discretion when [[downloading]] installer files from the Internet.
