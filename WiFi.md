@@ -20,4 +20,4 @@ lspci -nn
 
 This will list all PCI devices seen by the [[Linux]] kernel. Read the output to find which device, if any, is your wireless card.
 
-[[include:broadcomm-4300]]
+[[include:include/broadcomm-4300]]
