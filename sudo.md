@@ -6,7 +6,7 @@ For these examples to work, the appropriate user must be in the `sudo` group and
 
 ### Example of sudo
 
-In a [[terminal]] a user can run `id` to list out the userid and groupid info for the current user using the [[shell]].
+In a [[terminal]] a user can run `id` to list out the `userid` and `groupid` info for the current user using the [[shell]].
 
 For an example user `tux` on an example `freekbox`:
 
