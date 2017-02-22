@@ -2,13 +2,7 @@ Files are a very important thing to the Linux kernel. Everything the kernel uses
 
 Some important filetypes to distiguish are:
 
-* Binary Files
-
-* Readable Files
-
-* Media Files
-
-* Project Files
+[[_TOC_]]
 
 
 ## Binary Files
