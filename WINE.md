@@ -1,6 +1,6 @@
 # WINE Is Not an Emulator
 
-[[WINE|http://winehq.org]] is a compatability layer between Unix systems and Windows. It allows some Windows [[binary files|filetypes|#binary]] to run in Unix, and specifically [[Linux]].
+[[WINE|http://winehq.org]] is a compatability layer between Unix systems and Windows. It allows some Windows [[binary files|filetypes#Binary]] to run in Unix, and specifically [[Linux]].
 
 ## Installing WINE
 
