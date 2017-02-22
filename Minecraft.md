@@ -1,4 +1,4 @@
-Minecraft is a fantastic, extensively moddable, voxel stylized world simulator with monsters. Minecraft is sold through [[Minecraft.net|https://minecraft.net/en-us/]], and the `.jar` [[binary file|filetypes#Binary]] can be downloaded there once purchaed.
+Minecraft is a fantastic, extensively moddable, voxel stylized world simulator with monsters. Minecraft is sold through [[Minecraft.net|https://minecraft.net/en-us/]], and the `.jar` [[binary file|filetypes#Binary Files]] can be downloaded there once purchaed.
 
 ## Running Minecraft from Official Binary
 
