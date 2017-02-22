@@ -1,9 +1,6 @@
 Files are a very important thing to the Linux kernel. Everything the kernel uses is a file of some type in the filesystem. Many of these files are only kept in [[RAM]] and describe the location, status, configuration or specifications of the physical hardware.
 
-Some important filetypes to distiguish are:
-
 [[_TOC_]]
-
 
 ## Binary Files
 
