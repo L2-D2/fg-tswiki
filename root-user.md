@@ -4,4 +4,4 @@ It is dangerous to log in as the root user as then any subsequent program will u
 
 The root user's home folder is usually `/root`
 
-The root user is different than the [[root directory]]
+The root user is different than the [[root directory|linux-filesystem#root]]
