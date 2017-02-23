@@ -60,4 +60,24 @@ This is why many CPUs use a large metal brick with fins and/or a fan to wick hea
 
 Proper CPU cooling and air flow management is paramount when running an efficient machine.
 
-## ports
+## Ports
+
+Ports allow other hardware to interact with the computer.
+
+A miniscule list of various ports is:
+
+* VGA (video)
+
+* HDMI (video)
+
+* USB (serial)
+
+* Ethernet (network)
+
+* 3.5mm Headphone/Microphone (audio)
+
+* Power (power)
+
+* DVI (video)
+
+* Firewire (serial)
