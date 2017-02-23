@@ -1,4 +1,4 @@
-Assuming you have GRUB as your [[bootlaoder]]:
+Assuming you have GRUB as your [[bootloader]]:
 
 1. Turn off the machine.
 
