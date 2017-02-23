@@ -52,6 +52,8 @@ The CPU takes data out of ram, performs calculations read from the data about ot
 
 If a CPU is multi-core, then the physical chip slotted into the motherboard actually has multiple processing units that work in tandem. This allows the CPU to perform many more calculations a second and to work with more than one [[process]] at a time.
 
+A single core desktop CPU would use the `i386`, `i686`, or `intel_x86` architechture, where a dual core will be `amd64`, `x86-64`, or just `x64`.
+
 ### CPU Cooling Unit
 
 When the CPU performs these many calculations, it is shifting electricity through tiny conductive pathways embedded in silicon. This rush of electricity causes the CPU chip to heat up. Should the temperature of the CPU get too high, the chip will melt and cease to function.
