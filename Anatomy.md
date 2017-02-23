@@ -66,7 +66,7 @@ Proper CPU cooling and air flow management is paramount when running an efficien
 
 Ports allow other hardware to interact with the computer.
 
-A miniscule list of various ports is:
+A minuscule list of various ports is:
 
 * VGA (video)
 
