@@ -24,7 +24,7 @@ This means more RAM gives more space for the computer to process information bef
 
 The **P**ower **S**upply **U**nit provides a stable supply of electricity to the computer.
 
-The back of a PSU may have a few switches. One, labeled `0|1` will turn the power supply on and off. Another with `115|220` alters the expected input voltage. The United States uses a 110V standard and any power supply used as such should be set to `115`
+The back of a PSU may have a few switches. One, labeled `0|1` will turn the power supply on and off. Another with `115|220` alters the expected input voltage. The United States uses a 110V standard and any power supply used with this standard should be set to `115`.
 
 ## Mother Board
 
