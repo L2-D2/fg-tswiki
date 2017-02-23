@@ -30,7 +30,7 @@ The back of a PSU may have a few switches. One, labeled `0|1` will turn the powe
 
 The Mother Board contains all the central connectors to have all the components talk to each other. Desktop PC motherboards follow the [[Advanced Technology eXtended|https://en.wikipedia.org/wiki/ATX]] sizing standard. Laptop motherboards are proprietary to their make and models of cases.
 
-## Keyboard Video Monitor
+## Keyboard Video Mouse
 
 ### Keyboard
 
