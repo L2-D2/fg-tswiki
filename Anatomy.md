@@ -1,8 +1,8 @@
 # The Anatomy of a Computer
 
-Computers are made out of sand and oil and steel. 
+Computers are made out of sand and oil and steel.
 
-Meticulously pressed and manufactured, these components all serve different uses designed for the purpose of the computer. Many computers have different parts; many of which are different for each different type of computer.
+Meticulously pressed and manufactured, these components all serve different uses designed for the purposes of the computer. Many computers have different parts; many of which are different for each different type of computer.
 
 Every computer will still have the basic anatomy seen here in some form or another.
 
