@@ -5,6 +5,7 @@ The Linux kernel is a fancy piece of software that interacts with the physical h
 Different maintainers package and update complete operating systems all built upon the Linux kernel but with their own desktop environments, graphical nuances, [[package managers|Aptitude]] and/or system control schemes. Some major Linux distributions are:
 
 **Name (Upstream)**
+
 * Debian
 * Ubuntu (Debian)
 * Linux Mint (Ubuntu)
