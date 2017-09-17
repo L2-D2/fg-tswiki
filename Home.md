@@ -26,7 +26,7 @@
 
 * [[Google Chrome]]
 
-* [[Printing]]
+* [[Printers]]
 
 * [[Online Resources]]
 
