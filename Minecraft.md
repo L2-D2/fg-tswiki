@@ -11,4 +11,11 @@ $ sudo apt install default-jre default-jdk
 
 To run Minecraft after installing the JRE and JDK: `java -jar /path/to/minecraft.jar`. 
 
-The Minecraft launcher is also packaged in some distributions and can be installed using the provided package manager. In Linux Mint (and probably many other Debian based distros), the Minecraft installer can be downloaded from the [[Linux Mint Community page|https://community.linuxmint.com/software/view/minecraft-installer]]. Once downloaded the package can be installed either through right clicking and opening with the `GDebi Package Installer` or using `$ sudo dpkg -i /path/to/minecraft-installer.deb`.
+## Installing from Package Manger
+
+The Minecraft launcher is also packaged in some distributions and can be installed using the provided [[package manager]]. In Linux Mint, the Minecraft installer can be downloaded from the Software Manager. 
+
+### Obtaining installer from Community hosts
+You might still obtain an installer from the [[Linux Mint Community page|https://community.linuxmint.com/software/view/minecraft-installer]]. Once downloaded the package can be installed either through right clicking and opening with the `GDebi Package Installer` or using `$ sudo dpkg -i /path/to/minecraft-installer.deb`.
+
+Both the community installer and the package manager will create a menu launcher.
