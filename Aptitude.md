@@ -1,5 +1,7 @@
 Aptitude is the default package manager found in many Debian and Ubuntu based Linux distributions.
 
+[[_TOC_]]
+
 ## Usage
 
 Aptitude will usually require elevated [[privileges|sudo]] to install or upgrade software. If you are not the `root` user, be sure to always use `sudo` when asking Aptitude to manipulate packages.
@@ -33,3 +35,7 @@ Aptitude runs on the command line via the `apt` command. When calling `apt` ther
 * **Help**
 	* `$ apt help`
 	* Prints the Apt help page to [[stdout|Standard Streams]].
+
+## Graphical Front Ends
+
+Aptitude has a [[gui]] in Linux Mint known as the Software Manager. In Ubuntu it is the Software Centre.
