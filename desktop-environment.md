@@ -1,0 +1,1 @@
+A ***Desktop Environment*** is the name given to a suite of software that acts as the primary interaction at the user level.
