@@ -38,4 +38,4 @@ Aptitude runs on the command line via the `apt` command. When calling `apt` ther
 
 ## Graphical Front Ends
 
-Aptitude has a [[gui]] in Linux Mint known as the Software Manager. In Ubuntu it is the Software Centre.
+Aptitude has a graphical interface in Linux Mint known as the Software Manager. In Ubuntu it is the Software Centre.
