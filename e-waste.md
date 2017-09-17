@@ -20,3 +20,6 @@ There are other metals in computers, to include:
 The Steel in a computer is abundant and relatively easy to separate.
 
 ## Sand
+
+The chips in the transistors in the computer (of which there are millions^[[citation needed]]) are all made on a base of silicon.
+Silicon is also the primary compound in sand and glass.
